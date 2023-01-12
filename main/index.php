@@ -21,11 +21,11 @@
      <nav class="indigo">
        <div class="container">
          <div class="nav-wrapper">
-           <a href="../index.html" class="brand-logo">Gigih Ling</a>
+           <a href="../" class="brand-logo">Gigih Ling</a>
            <a href="#" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
            <ul class="right hide-on-med-and-down">
              <!-- <li><a href="#about">About Me</a></li> -->
-             <li><a href="../index.html">About Me</a></li>
+             <li><a href="../">About Me</a></li>
              <li><a href="#services">Services</a></li>
              <li><a href="#portfolio">Portfolio</a></li>
              <li><a href="#clients">Clients</a></li>

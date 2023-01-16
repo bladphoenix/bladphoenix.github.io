@@ -29,9 +29,12 @@ html {
 
 body{
 	margin-bottom: 150px;
-	margin-top: 30px; 
+	/* margin-top: 30px;  */
 }
 
+.jumbotron{
+	padding-top: 88px;
+}
 
 .jumbotron img{
 	width: 200px;

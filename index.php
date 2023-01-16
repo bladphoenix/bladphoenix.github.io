@@ -11,7 +11,7 @@
    <!--Let browser know website is optimized for mobile-->
    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-   <title>My portfolio Gigih</title>
+   <title>Bladphoenix</title>
  </head>
 
  <body id="home" class="scrollspy">
@@ -21,11 +21,10 @@
      <nav class="indigo">
        <div class="container">
          <div class="nav-wrapper">
-           <a href="../" class="brand-logo">Gigih Ling</a>
+           <a href="#home" class="brand-logo">Bladphoenix</a>
            <a href="#" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
            <ul class="right hide-on-med-and-down">
-             <!-- <li><a href="#about">About Me</a></li> -->
-             <li><a href="../">About Me</a></li>
+             <li><a href="main.php">About Me</a></li>
              <li><a href="#services">Services</a></li>
              <li><a href="#portfolio">Portfolio</a></li>
              <li><a href="#clients">Clients</a></li>

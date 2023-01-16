@@ -1,23 +1,25 @@
 <!DOCTYPE html>
 <html lang="en" id="home">
+
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 	<title>About Me</title>
-	
 
-<!-- Bootstrap -->
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="css/style.css">
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
+
+	<!-- Bootstrap -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
 </head>
+
 <body>
 	<!-- navbar -->
 	<nav class="navbar navbar-inverse navbar-fixed-top">
@@ -29,11 +31,11 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a href="./main/" class="navbar-brand page-scroll">Gigih Ling</a>
+				<a href="index.php" class="navbar-brand page-scroll">Gigih Ling</a>
 			</div>
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="./main/" class="page-scroll">Home</a></li>
+					<li><a href="index.php" class="page-scroll">Home</a></li>
 					<li><a href="#about" class="page-scroll">About</a></li>
 					<li><a href="#portfolio" class="page-scroll">Portfolio</a></li>
 					<li><a href="#contact" class="page-scroll">Contact</a></li>
@@ -70,7 +72,7 @@
 						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 				</div>
 				<div class="col-sm-5">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -78,7 +80,7 @@
 						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 				</div>
 			</div>
 		</div>
@@ -96,32 +98,32 @@
 
 			<div class="row text-center">
 				<div class="col-sm-4">
-					<a href="img/large/11.jpg">						
+					<a href="img/large/11.jpg">
 						<img src="img/1.jpg" class="thumbnail">
 					</a>
 				</div>
 				<div class="col-sm-4">
-					<a href="">						
+					<a href="">
 						<img src="img/2.jpg" class="thumbnail">
 					</a>
 				</div>
 				<div class="col-sm-4">
-					<a href="">						
+					<a href="">
 						<img src="img/3.jpg" class="thumbnail">
 					</a>
 				</div>
 				<div class="col-sm-4">
-					<a href="">						
+					<a href="">
 						<img src="img/4.jpg" class="thumbnail">
 					</a>
 				</div>
 				<div class="col-sm-4">
-					<a href="">						
+					<a href="">
 						<img src="img/5.jpg" class="thumbnail">
 					</a>
 				</div>
 				<div class="col-sm-4">
-					<a href="">						
+					<a href="">
 						<img src="img/6.jpg" class="thumbnail">
 					</a>
 				</div>
@@ -189,21 +191,22 @@
 			<div class="row">
 				<a class="btn btn-danger" href="bladphoenix24@gmail.com"> <i class="
 					glyphicon glyphicon-envelope"></i> kirim pesan ke gmail</a>
-				</div>
 			</div>
-		</footer>
-		<!-- akhir footer -->
+		</div>
+	</footer>
+	<!-- akhir footer -->
 
 
 
 
 
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="js/jquery-3.3.1.min.js"></script>
-		<script src="js/jquery.easing.1.3.js"></script>
-		<!-- Include all compiled plugins (below), or include individual files as needed -->
-		<script src="js/bootstrap.min.js"></script>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="js/jquery-3.3.1.min.js"></script>
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/bootstrap.min.js"></script>
 
-		<script type="text/javascript" src="js/script.js"></script>
-	</body>
-	</html>
+	<script type="text/javascript" src="js/script.js"></script>
+</body>
+
+</html>

@@ -24,7 +24,7 @@
            <a href="#home" class="brand-logo">Bladphoenix</a>
            <a href="#" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
            <ul class="right hide-on-med-and-down">
-             <li><a href="main.php">About Me</a></li>
+             <li><a href="aboutme.php">About Me</a></li>
              <li><a href="#services">Services</a></li>
              <li><a href="#portfolio">Portfolio</a></li>
              <li><a href="#clients">Clients</a></li>
